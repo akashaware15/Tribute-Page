@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.headding1 {
+    font-family: 'Nunito', sans-serif
+}
+
+body {  
+    background-color: #ebb2a394;  
+    margin: 10%;  
+} 
+
+
+.hero-section{
+    display: flex;
+    align-items: center;
+}
+
+.heading1 {
+    margin-left: 9rem;
+    font-size: 5rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+span {
+    font-size: 2.5rem;
+    color: rgb(54, 9, 4);
+}
+
+.hero-img {
+    height: 450px;
+    width: 400px;
+    background-image: url("virat_image.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    filter: drop-shadow(0 0 2rem rgb(93, 81, 81));
+}
+
+#caption {  
+    font-size: 19px;  
+    font-family:sans-serif;  
+    color: black;  
+} 
+
+
+div#tribute-data {  
+    background-color: rgba(181, 182, 234, 0.236);  
+    box-shadow: 20px 20px 20px #445250;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    padding: 25px 25px;  
+    margin: 11px;  
+    margin-top: 50px;  
+}  
+
+
+h1.title-vk {  
+    font-size: 35px;  
+    color: rgb(0, 0, 0);  
+    text-align: center;  
+    text-shadow: 5px 6px 10px rgb(224, 182, 182);  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+
+.about-vk {
+    font-size: 17px;
+}
