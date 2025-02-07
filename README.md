@@ -1,2 +1,2 @@
 # Tribute-Page
-<p> Tribute page Virat Kohli👤</p>
+<p> Tribute Page Virat Kohli👤</p>
